@@ -1,7 +1,7 @@
-# Power-BI-Sales-Report
+# Power-BI-Sales-Report 🚀
 This Power-BI report visualises the sales of a company to answer questions asked by the management, the steps taken to build this is explained for easy understanding.
 
-## Introduction
+## Introduction 🎤
 This is a report for the SuperStore dataset to show the Management top details from the data.
 
 ### Power BI Concepts Applied
